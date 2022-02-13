@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/richardfrost/Redactor/issues"
   },
-  "homepage": "https://github.com/richardfrost/Redactor#readme"
+  "homepage": "https://github.com/richardfrost/Redactor#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
 }

@@ -1,0 +1,24 @@
+{
+  "name": "redactor",
+  "version": "0.1.0",
+  "description": "Simple tool to redact information from log files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardfrost/Redactor.git"
+  },
+  "keywords": [
+    "Redact",
+    "Security",
+    "Privacy"
+  ],
+  "author": "Richard Frost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardfrost/Redactor/issues"
+  },
+  "homepage": "https://github.com/richardfrost/Redactor#readme"
+}

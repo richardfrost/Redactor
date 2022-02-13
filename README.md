@@ -1,2 +1,2 @@
 # Redactor
-Simple script to redact sensitive items from a log file
+Simple tool to redact information from log files
